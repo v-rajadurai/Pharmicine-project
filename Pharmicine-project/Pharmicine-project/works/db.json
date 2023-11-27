@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "logesh07cbe@gmail.com",
+      "password": "mskl",
+      "name": "Logesh",
+      "phn": "8610528048"
+    },
+    {
+      "id": 2,
+      "email": "nithish@gmail.com",
+      "password": "nithish",
+      "name": "Nithish",
+      "phn": "8610528048"
+    },
+    {
+      "id": 3,
+      "email": "rajadurai@gmail.com",
+      "password": "rajadurai",
+      "name": "Durai",
+      "phn": "8610528048"
+    },
+    {
+      "id": 4,
+      "email": "DannySherin@gmail.com",
+      "password": "danny",
+      "name": "Danny",
+      "phn": "8610528048"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phn": "",
+      "id": 5
+    }
+  ]
+}
